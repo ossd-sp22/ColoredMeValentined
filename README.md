@@ -5,7 +5,11 @@ This repository contains the code for our first github collaborative activity. W
 
 
 **To install this Extension:**
-In order to install this extension you can either clone this repository to your local device (advanced) or locate the "Download Zip" button under the green "Code" option on this page (beginner). ![Download Button](documentation_imgs/download_button.png) Then unzip this to a known directory.
+In order to install this extension you can either clone this repository to your local device (advanced) or locate the "Download Zip" button under the green "Code" option on this page (beginner). 
+
+![Download Button](documentation_imgs/download_button.png) 
+
+Then unzip this to a known directory.
 
 
 Once you know what folder these files are in, open Mozilla Firefox and type in "about:debugging#/runtime/this-firefox" in the Address Bar. Then click on "Temporary Add-On" and locate to this known folder and select any file there (but not a file in any sub-directory—to be sure, just pick the manifest.json file you see). 
