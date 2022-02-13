@@ -5,10 +5,13 @@
 function listenForClicks() {
   // If you add new moods, add the mood and corresponding colors to the object below.
   const moods = {
+    "Falling in love": setFormat("pink","#f4c2c2","pink"),
     "Hungry for Chipotle": setFormat("brown", "#ffddcc", "#ffaa80"),
     "Have an OSSD blog due soon": setFormat("pink", "#ccb3ff", "pink"),
     "Actively crying": setFormat("#00cccc", "#ccf5ff", "#ccffff"),
     "Passively crying": setFormat("#0000cc", "#9999ff", "#4d4dff"),
+    "Having to take the stairs because the Silver elevator line is too long": setFormat("#ff0000","#a52a2a","#ffa500"),
+    "Winter morning walks to class": setFormat("#0000ff", "white", "00ff00"),
   };
 
   // Helper for CSS generation
