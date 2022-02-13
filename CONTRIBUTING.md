@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering contributing to Colored Me Valentined! As with any open source project, we can't make it as good as possible without help from you and others.
+Thank you for considering contributing to ColorMeValentined! As with any open source project, we can't make it as good as possible without help from you and others.
 
 We want to make contribution to this project as easy and transparent as possible, whether it's:
 
