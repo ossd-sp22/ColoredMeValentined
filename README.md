@@ -20,14 +20,14 @@ Your extension should now have been loaded up. Navigate to any webpage and click
 
 ### Contributing
 
-As an open source project, we welcome any contributions! Feel free to check our [contributing]("./CONTRIBUTING.md") page for more information. Some contributions include, but are not limited to, adding another mood or changing the styling to make it more accessible.
+As an open source project, we welcome any contributions! Feel free to check our [contributing]("/CONTRIBUTING.md") page for more information. Some contributions include, but are not limited to, adding another mood or changing the styling to make it more accessible.
 
 If you have any concerns or feedback, please feel free to raise an issue!
 
 ### Code of Conduct
 
-Please make sure to maintain the standard brought about in the [Code of Conduct]("./CODE_OF_CONDUCT.md").
+Please make sure to maintain the standard brought about in the [Code of Conduct]("/CODE_OF_CONDUCT.md").
 
 ### License
 
-We currently use the [MIT License]("./LICENSE") which is compatible with the GNU license as well as other "copyleft licenses". It's the most popular license used in Github!
+We currently use the [MIT License]("/LICENSE") which is compatible with the GNU license as well as other "copyleft licenses". It's the most popular license used in Github!
