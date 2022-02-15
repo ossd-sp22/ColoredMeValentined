@@ -3,15 +3,30 @@
  * the content script in the page.
  */
 function listenForClicks() {
-  // If you add new moods, add the mood and corresponding colors to the object below.
+  /**
+    Place to contribute:
+      Add more moods!
+      If you add new moods, add the mood and corresponding colors to the object below.
+      Also make sure to add the corresponding title in choose_mood.html!
+  **/
+
   const moods = {
-    "Falling in love": setFormat("pink","#f4c2c2","pink"),
+    "Falling in love": setFormat("pink", "#f4c2c2", "pink"),
     "Hungry for Chipotle": setFormat("brown", "#ffddcc", "#ffaa80"),
     "Have an OSSD blog due soon": setFormat("pink", "#ccb3ff", "pink"),
-    "Actively crying": setFormat("#00cccc", "#ccf5ff", "#ccffff"),
+    "Actively crying": setFormat("#00cccc", "#5fa08c", "#ccffff"),
     "Passively crying": setFormat("#0000cc", "#9999ff", "#4d4dff"),
-    "Having to take the stairs because the Silver elevator line is too long": setFormat("#ff0000","#a52a2a","#ffa500"),
-    "Winter morning walks to class": setFormat("#0000ff", "white", "00ff00"),
+    "Winter morning walks to class": setFormat("black", "#b6e8f2", "#d0efdb"),
+    "Having to take the stairs because the Silver elevator line is too long": setFormat(
+      "#f04f43",
+      "#f7ac94",
+      "#cdd4b1"
+    ),
+    "2FA is failing and you can't complete the daily screener": setFormat(
+      "#093b41",
+      "#b8c7de",
+      "#5074af"
+    ),
   };
 
   // Helper for CSS generation

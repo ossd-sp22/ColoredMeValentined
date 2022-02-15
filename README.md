@@ -2,17 +2,17 @@
 
 ## Team 9 Add-on Activity
 
-This repository contains the code for our first github collaborative activity. We sought to create a Mozilla Firefox browser extension that changes a page's background color to match certain themes and moods, especially in light of Valentine's Day! <3
+This repository contains the code for our first github collaborative activity. We sought to create a Mozilla Firefox browser extension that changes a page's background color to match certain themes and moods, especially in light of Valentine's Day! <3. This project was in part based off of the Second Extension/[Beastify](https://github.com/mdn/webextensions-examples/tree/master/beastify) code, currently released under the MPL License.
 
 ### Installation Steps
 
 In order to install this extension, please follow the steps below.
 
-1. You can either clone this repository to your local device (advanced) or locate the "Download Zip" button under the green "Code" option on this page (beginner). Then unzip this to a known directory.
+1. You can either clone this repository to your local device (advanced: `git clone git@github.com:ossd-sp22/ColorMeValentined.git`) or locate the "Download Zip" button under the green "Code" option on this page (beginner). Then unzip this to a known directory.
 
 <img src="documentation_imgs/download_button.png" alt="drawing" width="300"/>
 
-2. Once you know what folder these files are in, open Mozilla Firefox and type in "about:debugging#/runtime/this-firefox" in the Address Bar.
+2. Once you know what folder these files are in, open Mozilla Firefox and type in `"about:debugging#/runtime/this-firefox"` in the Address Bar.
 
 3. Click on "Temporary Add-On" and locate to this known folder and select any file there (but not a file in any sub-directory—to be sure, for example you can click on `manifest.json`).
 

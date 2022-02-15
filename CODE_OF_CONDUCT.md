@@ -53,6 +53,9 @@ unprofessional or unwelcome in the community.
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
+**Rationale**: Growth is expected across all fields and forgiveness can be often be earned (provided this is a single offense). It is on the violator to then act accordingly and the benefit of the doubt is given to them as a result.
+
+
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series of
@@ -65,6 +68,8 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or permanent
 ban.
 
+**Rationale**: Often times the severity of an action is not recognized until one has to deal with the consequences behind it as well. Repeat offenders will be tracked for the safety of the community and that protection covers all means of communication (ie no doxxing).
+
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
@@ -76,6 +81,9 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
+**Rationale**: If following and still violating Steps 1 and 2, then the privilege to work in this community will temporarily be blocked as the next logical action. Duration is up to the committee members depending on the severity of the act. Our goal is not to punish but to encourage reflection towards introspection.
+
+
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
@@ -84,6 +92,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
+
+**Rationale** Continued offensive behavior will stop current, and future contributors from feeling welcomed. As such, we must stand behind swift, decisive, and firm actions by showing our commitment towards preventing any current or future misconduct.
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
@@ -102,5 +112,3 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
-
-
